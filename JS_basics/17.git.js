@@ -18,6 +18,8 @@
 //git add  <file_path>
 // git commit -m "commit_message"
 //git log for look history
+
+//
  
 //*branch
 
@@ -26,6 +28,10 @@
 // git switch <branch_name>
 //git merge <branch_name>
 // git checkout  -b<branch_name>
+//git push origin <branch_name>
+//git fetch origin //origin / main
+//git pull origin <branc_name>=>fetch+merge
+//git diff <barch
 
 //!github
 //git rmeote add origin <origin_repo_url>
