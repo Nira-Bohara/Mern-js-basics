@@ -107,7 +107,7 @@ class Calculator {
     return a / b;
   }
 }
-const calc1 = new Calculator();
-console.log(Calculator.app_name);
-console.log(calc1.add(12, 3));
-console.log(Calculator.Sub(12, 3));
+// const calc1 = new Calculator();
+// console.log(Calculator.app_name);
+// console.log(calc1.add(12, 3));
+// console.log(Calculator.Sub(12, 3));
