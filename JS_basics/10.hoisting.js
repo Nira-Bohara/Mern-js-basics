@@ -145,5 +145,6 @@ if(true){
     const y = 300; //!  block scoped
     console.log(y); // 300
 }
-console.log(y); // 100
+console.log(y); // 100d
+//? hello 
 
